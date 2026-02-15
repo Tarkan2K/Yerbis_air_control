@@ -1,81 +1,79 @@
-# 🎮 Manual de Usuario: Yerbis Air Control
+# User Manual: Yerbis Air Control
 
-¡Bienvenido al futuro del control de video! Yerbis te permite controlar YouTube usando tu voz y tus manos, como un Jedi o Tony Stark.
-
----
-
-## 🚀 Primeros Pasos
-
-### 1. Instalación
-1.  Asegúrate de que la extensión esté instalada y activa en Chrome.
-2.  Abre cualquier video de YouTube.
-3.  Abre el **Panel Lateral** de Chrome y selecciona "Yerbis".
-
-### 2. Configuración (Solo la primera vez)
-1.  Verás una pantalla pidiendo tu **Gemini API Key**.
-2.  Pégala y haz clic en "Guardar".
-3.  ¡Listo! Si ves un micrófono verde, Yerbis te está escuchando.
+**Welcome to Yerbis Air Control.** This manual provides instructions for controlling YouTube using voice commands and hand gestures.
 
 ---
 
-## 🗣️ Control por Voz (Modo Principal)
+## 1. Getting Started
 
-Yerbis siempre te escucha, pero solo reacciona cuando lo llamas.
+### Installation
+1.  Ensure the extension is installed and active in Chrome.
+2.  Open any YouTube video.
+3.  Open the Chrome **Side Panel** and select "Yerbis".
 
-### Cómo hablarle
-1.  **Di su nombre:** "Yerbis", "Jarvis", o "Hierbies".
-2.  **Espera la señal:** El icono del micrófono se pondrá **CYAN** y dirá "ESCUCHANDO COMANDO...".
-3.  **Di tu orden:** Tienes 5 segundos para hablar.
-    *   *"Busca videos de programación"*
-    *   *"Ponlo en el minuto 5"*
-    *   *"Sube el volumen al máximo"*
-
-### Comandos Rápidos (Sin decir el nombre)
-Para acciones urgentes, no necesitas decir "Yerbis". Solo di:
-*   **"Pausa"** / **"Pausar"**
-*   **"Play"** / **"Reproducir"**
-*   **"Silencio"** / **"Mute"**
-*   **"Activa control manual"**
+### Configuration (First Time Only)
+1.  You will be prompted to enter your **Gemini API Key**.
+2.  Paste your key and click "Save".
+3.  Once configured, a green microphone icon indicates Yerbis is listening.
 
 ---
 
-## ✋ Control Gestual (Modo Manual)
+## 2. Voice Control (Primary Mode)
 
-Para sentir el poder en tus manos.
+Yerbis listens passively but only reacts when addressed directly.
 
-1.  Di: **"Activa control manual"**.
-2.  Se encenderá tu cámara. Verás un recuadro con lo que ve Yerbis.
+### How to Issue Commands
+1.  **Wake Word:** Say "Yerbis", "Jarvis", or "Hierbies".
+2.  **Wait for Signal:** The microphone icon will turn **CYAN** and display "LISTENING COMMAND...".
+3.  **Speak your Command:** You have a 5-second window to speak.
+    *   Examples:
+        *   "Search for programming videos"
+        *   "Skip to minute 5"
+        *   "Set volume to maximum"
 
-### Gestos Disponibles
-
-#### ✊ Puño de Poder (Play/Pause)
-1.  Levanta tu mano abierta frente a la cámara.
-2.  **Cierra el puño** firmemente.
-3.  Mantenlo cerrado un instante (0.3 segundos).
-4.  **Abre la mano**.
-5.  *El video se pausará o reproducirá.*
-
-#### ☝️ Joystick Virtual (Volumen y Búsqueda)
-1.  Levanta solo tu **dedo índice** (como señalando).
-2.  Aparecerá una línea amarilla en pantalla.
-3.  **Mueve el dedo:**
-    *   ⬆️ **Arriba:** Subir Volumen.
-    *   ⬇️ **Abajo:** Bajar Volumen.
-    *   ➡️ **Derecha:** Adelantar video.
-    *   ⬅️ **Izquierda:** Retroceder video.
-
-### Salir del Modo Manual
-Para apagar la cámara y volver al modo de voz, di:
-**"Apagar control manual"** o **"Desactiva control manual"**.
+### Quick Commands (No Wake Word Required)
+For urgent actions, the Wake Word is strictly optional. You may simply say:
+*   **"Pause"**
+*   **"Play"**
+*   **"Silence"** or **"Mute"**
+*   **"Activate manual control"**
 
 ---
 
-## 💡 Consejos Pro
+## 3. Gesture Control (Manual Mode)
 
-*   **Distancia:** Gracias al sistema de "Sesión Activa", puedes decir "Yerbis" desde el otro lado de la habitación, esperar a ver la luz Cyan, y luego decir tu comando con calma.
-*   **Privacidad:** Yerbis ignora todo lo que dices si no empiezas con su nombre (excepto los comandos rápidos). Tu privacidad está a salvo.
-*   **Feedback:** Mira la pantalla. Aparecerán iconos grandes (🔊, ▶️, ⏸️) confirmando tus órdenes.
+Gesture control allows for non-verbal interaction using the webcam.
+
+### Activation
+1.  Say: **"Activate manual control"**.
+2.  Your camera will activate, and you will see a visual feed.
+
+### Available Gestures
+
+#### Play/Pause (Closed Fist)
+1.  Raise your open hand to the camera.
+2.  **Close your fist** firmly.
+3.  Hold for approximately 0.3 seconds.
+4.  **Open your hand**.
+5.  Video playback will toggle.
+
+#### Virtual Joystick (Volume and Seek)
+1.  Raise your **index finger** (pointing).
+2.  A yellow line will appear on the screen tracking your finger.
+3.  **Move your finger:**
+    *   **Up:** Increase Volume.
+    *   **Down:** Decrease Volume.
+    *   **Right:** Seek Forward.
+    *   **Left:** Seek Backward.
+
+### Deactivation
+To turn off the camera and return to Voice-Only mode, say:
+**"Turn off manual control"** or **"Deactivate manual control"**.
 
 ---
 
-¡Disfruta tu nueva experiencia en YouTube!
+## 4. Pro Tips
+
+*   **Distance:** The "Active Session" feature allows you to activate Yerbis from a distance. Say the Wake Word, wait for the visual indicator, then speak your command naturally.
+*   **Privacy:** Yerbis ignores all speech not preceded by the Wake Word (except for specific Quick Commands).
+*   **Feedback:** Visual indicators (Volume, Play, Pause icons) will appear on the video to confirm your commands.
